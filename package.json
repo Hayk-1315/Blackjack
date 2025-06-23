@@ -1,6 +1,16 @@
 {
-  "name": "Scrim-s0em7s",
-  "description": "https://scrimba.com/learn-javascript-c0v/~035",
+  "name": "blackjack-game",
+  "version": "1.0.0",
+  "description": "A simple Blackjack game built with vanilla JavaScript, HTML, and CSS as part of my Scrimba JavaScript learning path",
+  "author": "Albert Khudaverdyan",
+  "license": "MIT",
+  "keywords": [
+    "blackjack",
+    "javascript",
+    "game",
+    "scrimba",
+    "frontend"
+  ],
   "scripts": {
     "start": "vite",
     "dev": "vite",
